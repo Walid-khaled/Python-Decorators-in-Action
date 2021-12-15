@@ -4,11 +4,3 @@
 # walid_task2 contains function decorator_2 that extends decorator_1 with inspect module. 
 # walid_task3 contains class decorator_3 that do the same as task 1,2 using class but write the output in task3.txt and print ranking table. 
 # walid_task4 contains function decorator_4 that pipes error stream into log file.txt instead of stdout.
-├── src              <- directory for source files 
-|    ├── main.py     <- driver program file 
-|    ├── task1.py    <- task 1 implemented here 
-|    ├── ...
-|    └── task4.py    <- task 4 implemented here 
-│                               
-├── ....             <- bla bla bla
-└── Readme.md

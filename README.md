@@ -1,5 +1,5 @@
 ## Decorators in Action (SSD_Assignment1)
-This repository contains a solution for Assignment1 in Software System Design course for ROCV master's program at Innopolis University. Tasks discription can be found [here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/Sy1EEcCZF#Decorators-in-Action/)
+This repository contains a solution for Assignment1 in Software System Design course for ROCV master's program at Innopolis University. Tasks discription can be found [Here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/Sy1EEcCZF#Decorators-in-Action/).
 
 ---
 ### Table of Content 

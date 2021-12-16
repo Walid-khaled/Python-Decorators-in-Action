@@ -13,3 +13,12 @@ This repository contains a project I completed using PyTorch in the language Pyt
 
 [Tasks discription](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/Sy1EEcCZF#Decorators-in-Action/)
 This repository contains a project I completed using PyTorch in the language Python. The generative adversarial network was trained on a set of celebrity faces and can produce new realistic faces. 
+
+├── src              <- directory for source files 
+|    ├── main.py     <- driver program file 
+|    ├── task1.py    <- task 1 implemented here 
+|    ├── ...
+|    └── task4.py    <- task 4 implemented here 
+│                               
+├── ....             <- bla bla bla
+└── Readme.md

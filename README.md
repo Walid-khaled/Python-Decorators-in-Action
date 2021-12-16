@@ -1,7 +1,8 @@
-# Decorators in Action SSD_Assignment1
-This repository contains a project I completed using PyTorch in the language Python. The generative adversarial network was trained on a set of celebrity faces and can produce new realistic faces.
+## Decorators in Action (SSD_Assignment1)
+This repository contains a solution for Assignment1 in Software System Design course for ROCV master's program at Innopolis University. Tasks discription can be found [here](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/Sy1EEcCZF#Decorators-in-Action/)
 
-## Table of Content 
+---
+### Table of Content 
 ```
 ├── src              <- directory for source files 
 |    ├── main.py     <- contains 4 functions to be decorated with 4 different decorators
@@ -12,7 +13,3 @@ This repository contains a project I completed using PyTorch in the language Pyt
 │                               
 └── Readme.md
 ```
----
-[Tasks discription](https://hackmd.io/@gFZmdMTOQxGFHEFqqU8pMQ/Sy1EEcCZF#Decorators-in-Action/)
-This repository contains a project I completed using PyTorch in the language Python. The generative adversarial network was trained on a set of celebrity faces and can produce new realistic faces. 
-

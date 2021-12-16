@@ -2,7 +2,6 @@
 This repository contains a project I completed using PyTorch in the language Python. The generative adversarial network was trained on a set of celebrity faces and can produce new realistic faces.
 
 ## Table of Content 
-<br />
 ├── src              <- directory for source files<br />
 |    ├── main.py     <- contains 4 functions to be decorated with 4 different decorators<br />
 |    ├── task1.py    <- contains function decorator_1 that calculates the execution time and number of calls for the argument function<br />
